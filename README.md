@@ -1,7 +1,7 @@
 # TAIRP-TASK1 (LEVEL-1)
 CAR PRICE PREDICTION WITH MACHINE LEARNING - This is a Project completed during my Data Science Internship with TECH-A-INTERN
 
-The data set can be downloaded from Link : 
+The data set can be downloaded from Link : https://github.com/Govardhanaraokotla/TAIRP/blob/main/CarPrice.csv
 
 #### Name : KOTLA GOVARDHANARAO
 #### Designation : Data Science Intern  
